@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: sparkpack
+Version: 0.0.1
+Summary: A small example package for ML end to end on spark using MLLib
+Home-page: https://github.com/Test-Work-Azure/Spark_Code_Repo
+Author: Adarsh_Ayush
+Author-email: ayush.oturkar@fractal.ai
+License: UNKNOWN
+Description: # Test package
+        
+        This is a simple test package to run ml pipeline on spark
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
